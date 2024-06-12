@@ -4,5 +4,6 @@ kasmweb/nginx:1.25.3
 hslr/sun-panel
 xhofe/alist
 gdy666/lucky
+jxxghp/moviepilot
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
