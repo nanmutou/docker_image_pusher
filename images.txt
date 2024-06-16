@@ -2,4 +2,6 @@ hslr/sun-panel
 xhofe/alist
 gdy666/lucky
 jxxghp/moviepilot
+nyanmisaka/jellyfin
+boredazfcuk/icloudpd
 --platform=linux/amd64 redis:7.0.15-alpine3.20
