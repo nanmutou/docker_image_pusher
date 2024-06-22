@@ -4,4 +4,5 @@ gdy666/lucky
 jxxghp/moviepilot
 nyanmisaka/jellyfin
 boredazfcuk/icloudpd
+homeassistant/home-assistant
 --platform=linux/amd64 redis:7.0.15-alpine3.20
