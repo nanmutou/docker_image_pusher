@@ -6,4 +6,6 @@ nyanmisaka/jellyfin
 boredazfcuk/icloudpd
 homeassistant/home-assistant
 amilys/embyserver
---platform=linux/amd64 redis:7.0.15-alpine3.20
+xiaoyaliu/alist
+
+
