@@ -7,5 +7,5 @@ boredazfcuk/icloudpd
 homeassistant/home-assistant
 amilys/embyserver
 xiaoyaliu/alist
-
+nodered/node-red
 
