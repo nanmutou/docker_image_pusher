@@ -8,4 +8,5 @@ homeassistant/home-assistant
 amilys/embyserver
 nodered/node-red
 xiaoyaliu/alist
+nodered/node-red
  
